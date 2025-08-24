@@ -39,7 +39,7 @@
     </td>
   </tr>
 </table>
-
+<hr />
 <h3>Private projects</h3>
 <ul>
   <li>
