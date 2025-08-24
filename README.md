@@ -9,35 +9,32 @@
   DevOps tasks. I enjoy writing unit tests and care about code quality. My goal
   is to deepen backend expertise and organize/expand my frontend knowledge.
 </p>
-<table style="border: none;">
-  <tr style="border: none;">
-    <td valign="top" width="50%" style="border: none;">
-      <h4>Tech stack</h4>
-      <ul>
-        <li>.NET: 4.8, 6, 8, 9</li>
-        <li>C#, SQL, SQL Server</li>
-        <li>Entity Framework</li>
-        <li>NUnit, NSubstitute, AutoFixture</li>
-        <li>Umbraco (CMS): 8, 15</li>
-        <li>MediatR, CQRS</li>
-        <li>HTML, CSS, JavaScript</li>
-        <li>React, Vue, Lit components</li>
-      </ul>
-    </td>
-    <td valign="top" width="50%" style="border: none;">
-      <h4>Tools</h4>
-      <ul>
-        <li>Git: GitHub, Azure DevOps</li>
-        <li>JetBrains Rider, Visual Studio, VS Code</li>
-        <li>SQL Server Management Studio</li>
-        <li>Docker</li>
-        <li>Azure Portal</li>
-        <li>Matlab</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-<hr />
+<div style="display: flex; gap: 40px;">
+  <div>
+    <h4>Tech stack</h4>
+    <ul>
+      <li>.NET: 4.8, 6, 8, 9</li>
+      <li>C#, SQL, SQL Server</li>
+      <li>Entity Framework</li>
+      <li>NUnit, NSubstitute, AutoFixture</li>
+      <li>Umbraco (CMS): 8, 15</li>
+      <li>MediatR, CQRS</li>
+      <li>HTML, CSS, JavaScript</li>
+      <li>React, Vue, Lit components</li>
+    </ul>
+  </div>
+  <div>
+    <h4>Tools</h4>
+    <ul>
+      <li>Git: GitHub, Azure DevOps</li>
+      <li>JetBrains Rider, Visual Studio, VS Code</li>
+      <li>SQL Server Management Studio</li>
+      <li>Docker</li>
+      <li>Azure Portal</li>
+      <li>Matlab</li>
+    </ul>
+  </div>
+</div>
 
 <h3>Private projects</h3>
 <ul>
