@@ -9,19 +9,34 @@
   DevOps tasks. I enjoy writing unit tests and care about code quality. My goal
   is to deepen backend expertise and organize/expand my frontend knowledge.
 </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/p-rzemieniarz" target="blank">
-    <img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="p-rzemieniarz"
-      height="30"
-      width="40"
-    />
-  </a>
-</p>
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <h4>Tech stack</h4>
+      <ul>
+        <li>.NET: 4.8, 6, 8, 9</li>
+        <li>C#, SQL, SQL Server</li>
+        <li>Entity Framework</li>
+        <li>NUnit, NSubstitute, AutoFixture</li>
+        <li>Umbraco (CMS): 8, 15</li>
+        <li>MediatR, CQRS</li>
+        <li>HTML, CSS, JavaScript</li>
+        <li>React, Vue, Lit components</li>
+      </ul>
+    </td>
+    <td valign="top" width="50%">
+      <h4>Tools</h4>
+      <ul>
+        <li>Git: GitHub, Azure DevOps</li>
+        <li>JetBrains Rider, Visual Studio, VS Code</li>
+        <li>SQL Server Management Studio</li>
+        <li>Docker</li>
+        <li>Azure Portal</li>
+        <li>Matlab</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 <hr />
 
 <h3>Private projects</h3>
@@ -77,24 +92,15 @@
 </p>
 <hr />
 
-<h3>Tech stack</h3>
-<ul>
-  <li>.NET: 4.8, 6, 8, 9</li>
-  <li>C#, SQL, SQL Server</li>
-  <li>Entity Framework</li>
-  <li>NUnit, NSubstitute, AutoFixture</li>
-  <li>Umbraco (CMS): 8, 15</li>
-  <li>MediatR, CQRS</li>
-  <li>HTML, CSS, JavaScript</li>
-  <li>React, Vue, Lit components</li>
-</ul>
-
-<h3>Tools</h3>
-<ul>
-  <li>Git: GitHub, Azure DevOps</li>
-  <li>JetBrains Rider, Visual Studio, VS Code</li>
-  <li>SQL Server Management Studio</li>
-  <li>Docker</li>
-  <li>Azure Portal</li>
-  <li>Matlab</li>
-</ul>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/p-rzemieniarz" target="blank">
+    <img
+      align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="p-rzemieniarz"
+      height="30"
+      width="40"
+    />
+  </a>
+</p>
