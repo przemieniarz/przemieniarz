@@ -31,6 +31,7 @@
         <li>Git: GitHub, Azure DevOps</li>
         <li>JetBrains Rider, Visual Studio, VS Code</li>
         <li>SQL Server Management Studio</li>
+        <li>Postman</li>
         <li>Docker</li>
         <li>Azure Portal</li>
         <li>Matlab</li>
