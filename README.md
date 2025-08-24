@@ -9,7 +9,7 @@
   DevOps tasks. I enjoy writing unit tests and care about code quality. My goal
   is to deepen backend expertise and organize/expand my frontend knowledge.
 </p>
-<table>
+<table border="0">
   <tr>
     <td valign="top" width="50%">
       <h4>Tech stack</h4>
