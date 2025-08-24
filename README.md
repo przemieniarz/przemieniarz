@@ -1,14 +1,100 @@
 <h1 align="center">Hi, I'm Paulina</h1>
-<h3 align="center">A passionate .Net developer with almost 2 years of professional career also learning frontend skills</h3>
+<h3 align="center">
+  A passionate .NET developer with almost 2 years of experience
+</h3>
 
-- 🔭 I’m currently working on [my CV/portfolio page](https://github.com/przemieniarz/portfolioCV)
-
-- 🌱 I’m currently learning **frontend development, mainly focusing on the React framework**
+<p>
+  I’m a fast learner, eager to take on new challenges. My main focus is backend
+  development with .NET and SQL, but I also support my team with frontend and
+  DevOps tasks. I enjoy writing unit tests and care about code quality. My goal
+  is to deepen backend expertise and organize/expand my frontend knowledge.
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/p-rzemieniarz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="p-rzemieniarz" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/p-rzemieniarz" target="blank">
+    <img
+      align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="p-rzemieniarz"
+      height="30"
+      width="40"
+    />
+  </a>
 </p>
+<hr />
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+<h3>Private projects</h3>
+<ul>
+  <li>
+    Currently building
+    <a href="https://github.com/przemieniarz/portfolioCV">my CV/portfolio page</a> – both a portfolio site and a way to
+    practice frontend. Started with HTML & CSS, later adding JavaScript.
+  </li>
+  <li>
+    Learning frontend with React and studying
+    <a
+      href="https://www.udemy.com/course/the-complete-web-development-bootcamp/"
+      >this Udemy course</a
+    >.
+  </li>
+  <li>
+    Future projects once I gain more frontend experience:
+    <ul>
+      <li>
+        <a href="https://github.com/przemieniarz/JobApplyHelper">Job Apply Helper</a> – an app for tracking job applications
+        and managing the process more easily (Backend: .Net, Frontend: React).
+      </li>
+      <li>
+        <a href="https://github.com/przemieniarz/QuodTabernamStore">QuodTabernamStore</a> – an Umbraco e-commerce project, mainly
+        to explore umbraco commerce features and integrations.
+      </li>
+    </ul>
+  </li>
+</ul>
+<hr />
+
+<h3>Work projects</h3>
+<p>
+  Mostly backend tasks with .NET and SQL, but also React, Lit components, Vue,
+  and Azure when needed.
+</p>
+<ul>
+  <li>
+    Maintenance work: fixing production bugs, adding client-requested features,
+    gathering requirements, and writing unit tests (Arrange-Act-Assert).
+  </li>
+  <li>
+    Migrating a large e-commerce Umbraco project from v8/.NET 4.8 to v15/.NET 9.
+    A challenging rewrite where I’m learning Lit, Vue, Stripe/PayPal
+    integrations, and the differences across Umbraco versions. Hard but very
+    rewarding.
+  </li>
+</ul>
+<p>
+  You can also check my job-related GitHub activity
+  <a href="">here</a> – there’s much more green than on my private account :D
+</p>
+<hr />
+
+<h3>Tech stack</h3>
+<ul>
+  <li>.NET: 4.8, 6, 8, 9</li>
+  <li>C#, SQL, SQL Server</li>
+  <li>Entity Framework</li>
+  <li>NUnit, NSubstitute, AutoFixture</li>
+  <li>Umbraco (CMS): 8, 15</li>
+  <li>MediatR, CQRS</li>
+  <li>HTML, CSS, JavaScript</li>
+  <li>React, Vue, Lit components</li>
+</ul>
+
+<h3>Tools</h3>
+<ul>
+  <li>Git: GitHub, Azure DevOps</li>
+  <li>JetBrains Rider, Visual Studio, VS Code</li>
+  <li>SQL Server Management Studio</li>
+  <li>Docker</li>
+  <li>Azure Portal</li>
+  <li>Matlab</li>
+</ul>
