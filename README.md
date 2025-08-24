@@ -9,9 +9,9 @@
   DevOps tasks. I enjoy writing unit tests and care about code quality. My goal
   is to deepen backend expertise and organize/expand my frontend knowledge.
 </p>
-<table border="0">
-  <tr>
-    <td valign="top" width="50%">
+<table style="border: none;">
+  <tr style="border: none;">
+    <td valign="top" width="50%" style="border: none;">
       <h4>Tech stack</h4>
       <ul>
         <li>.NET: 4.8, 6, 8, 9</li>
@@ -24,7 +24,7 @@
         <li>React, Vue, Lit components</li>
       </ul>
     </td>
-    <td valign="top" width="50%">
+    <td valign="top" width="50%" style="border: none;">
       <h4>Tools</h4>
       <ul>
         <li>Git: GitHub, Azure DevOps</li>
