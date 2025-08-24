@@ -9,14 +9,16 @@
   DevOps tasks. I enjoy writing unit tests and care about code quality. My goal
   is to deepen backend expertise and organize/expand my frontend knowledge.
 </p>
-<table width="100%">
+<table>
   <tr>
-    <td valign="top" width="50%">
-      <h4>Tech stack</h4>
+    <th>Tech stack</th>
+    <th>Tools</th>
+  </tr>
+  <tr>
+    <td>
       <ul>
         <li>.NET: 4.8, 6, 8, 9</li>
-        <li>C#, SQL, SQL Server</li>
-        <li>Entity Framework</li>
+        <li>C#, SQL, SQL Server, Entity Framework</li>
         <li>NUnit, NSubstitute, AutoFixture</li>
         <li>Umbraco (CMS): 8, 15</li>
         <li>MediatR, CQRS</li>
@@ -24,8 +26,7 @@
         <li>React, Vue, Lit components</li>
       </ul>
     </td>
-    <td valign="top" width="50%">
-      <h4>Tools</h4>
+    <td>
       <ul>
         <li>Git: GitHub, Azure DevOps</li>
         <li>JetBrains Rider, Visual Studio, VS Code</li>
