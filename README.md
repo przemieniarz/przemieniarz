@@ -93,6 +93,16 @@
 </p>
 <hr />
 
+<h3>GitHub Stats</h3>
+<div align="center">
+    <img src="https://nirzak-streak-stats.vercel.app/?user=przemieniarz&theme=shadow_blue&hide_border=false" />
+    <br/>
+    <img src="https://github-readme-stats.vercel.app/api?username=przemieniarz&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true" />
+    <br/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=przemieniarz&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+</div>
+
+<hr />
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/p-rzemieniarz" target="blank">
